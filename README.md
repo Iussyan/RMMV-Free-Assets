@@ -1,6 +1,12 @@
 # RMMV-Free-Assets
 You can download my collection of assets from various RPG Maker MV Artists! Credits are a must!
 
+## The folder contains:
+### Actor/People Assets (Short and Tall)
+### Enemy Assets (Monsters SV Actors and SV Battlers)
+### Base Template (People, Beasts, Elves, Adult, Kid, Male, Female, Short and Tall)
+#### + Chibi Monsters Assets! (Drag and Drop too!)
+
 # Disclaimer
 I **do not** claim and own **any** of this assets.
 
@@ -18,6 +24,7 @@ If you wish to use the assets **commercially**, you may refer to the ***terms of
 Lastly, ***Credits goes to the talented artists who made these assets free and publicly available. Thank you and we appreciate all of your efforts!!***
 
 **Happy Game Making! <3**
+
 # How to download
 1. Go to this link:
     - [RPG MAKER MV FREE ASSETS COMPILATION](https://drive.google.com/drive/folders/1G7StK2rcrz7WjkJWhZHdkvbqKJNAuLtE?usp=sharing)
@@ -35,4 +42,4 @@ Lastly, ***Credits goes to the talented artists who made these assets free and p
 - **Why do we need to request access before downloading the file?**
     - *It's to prevent abusers and potential bots/spammers to access the assets.* ***Also for me to know that people downloads this compilation***.
 - **Is it really free? Are the links you provided safe?**
-    - *...Are you serious? If you want, you may install a malware detection software and paste the links to see if they're secured.*
+    - *...Seriously? If you want, you may install a malware detection software and paste the links to see if they're secured.*

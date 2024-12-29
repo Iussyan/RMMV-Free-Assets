@@ -20,7 +20,7 @@ Lastly, ***Credits goes to the talented artists who made these assets free and p
 **Happy Game Making! <3**
 # How to download
 1. Go to this link:
-    - [Google Drive](https://drive.google.com/drive/folders/1G7StK2rcrz7WjkJWhZHdkvbqKJNAuLtE?usp=sharing)
+    - [RPG MAKER MV FREE ASSETS COMPILATION](https://drive.google.com/drive/folders/1G7StK2rcrz7WjkJWhZHdkvbqKJNAuLtE?usp=sharing)
 2. Request Access
 3. Wait for a maximum of 24 hours
     - You can follow up with an email if it's been a day or later.

@@ -21,7 +21,9 @@ As far as I know, these assets are **free to use** as long as it's not for **com
 
 If you wish to use the assets **commercially**, you may refer to the ***terms of use*** on the website provided above.
 
-Lastly, ***Credits goes to the talented artists who made these assets free and publicly available. Thank you and we appreciate all of your efforts!!***
+Lastly, 
+
+***All credits goes to the talented artists who made these assets free and publicly available. Thank you and we appreciate all of your contributions and efforts!!***
 
 **Happy Game Making! <3**
 
